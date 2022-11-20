@@ -1,6 +1,6 @@
 # Задание макет для вёрстки писем
 ##### Адаптивная верстка по заданию Докторслон.ру https://archive.sendpul.se/v/4acn3/7k18f/
-##### Моя https://layout91doctor.github.io/
+##### Моя https://layout91doctor.github.io/ файл doctor.html
 ##### По макету  https://doctorslon-layout.github.io/ файл my_doctor.html
 ![Image alt](https://github.com/TodaCosta/layout91doctor.github.io/blob/master/VP0OBV2s.jpg)
 ![Image alt](https://github.com/TodaCosta/layout91doctor.github.io/blob/master/fNrxuQ7e.jpg)
